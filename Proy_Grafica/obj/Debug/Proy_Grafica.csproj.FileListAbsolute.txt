@@ -1,0 +1,11 @@
+C:\Users\JeTf\Desktop\SEM_1_2020\PROG_GRAFICA\1\Proy_Grafica\Proy_Grafica\bin\Debug\Proy_Grafica.exe.config
+C:\Users\JeTf\Desktop\SEM_1_2020\PROG_GRAFICA\1\Proy_Grafica\Proy_Grafica\obj\Debug\Proy_Grafica.csprojResolveAssemblyReference.cache
+C:\Users\JeTf\Desktop\SEM_1_2020\PROG_GRAFICA\1\Proy_Grafica\Proy_Grafica\bin\Debug\Proy_Grafica.exe
+C:\Users\JeTf\Desktop\SEM_1_2020\PROG_GRAFICA\1\Proy_Grafica\Proy_Grafica\bin\Debug\Proy_Grafica.pdb
+C:\Users\JeTf\Desktop\SEM_1_2020\PROG_GRAFICA\1\Proy_Grafica\Proy_Grafica\bin\Debug\OpenTK.dll
+C:\Users\JeTf\Desktop\SEM_1_2020\PROG_GRAFICA\1\Proy_Grafica\Proy_Grafica\bin\Debug\OpenTK.pdb
+C:\Users\JeTf\Desktop\SEM_1_2020\PROG_GRAFICA\1\Proy_Grafica\Proy_Grafica\bin\Debug\OpenTK.xml
+C:\Users\JeTf\Desktop\SEM_1_2020\PROG_GRAFICA\1\Proy_Grafica\Proy_Grafica\obj\Debug\Proy_Grafica.exe
+C:\Users\JeTf\Desktop\SEM_1_2020\PROG_GRAFICA\1\Proy_Grafica\Proy_Grafica\obj\Debug\Proy_Grafica.pdb
+C:\Users\JeTf\Desktop\SEM_1_2020\PROG_GRAFICA\1\Proy_Grafica\Proy_Grafica\bin\Debug\resourse\shader\fragment.shader
+C:\Users\JeTf\Desktop\SEM_1_2020\PROG_GRAFICA\1\Proy_Grafica\Proy_Grafica\bin\Debug\resourse\shader\vertex.shader

@@ -1,0 +1,17 @@
+C:\Users\JeTf\Desktop\SEM_1_2020\PROG_GRAFICA\1\JuegoGrafica\Proy_Grafica\bin\Debug\resourse\shader\fragment.shader
+C:\Users\JeTf\Desktop\SEM_1_2020\PROG_GRAFICA\1\JuegoGrafica\Proy_Grafica\bin\Debug\resourse\shader\vertex.shader
+C:\Users\JeTf\Desktop\SEM_1_2020\PROG_GRAFICA\1\JuegoGrafica\Proy_Grafica\bin\Debug\Proy_Grafica.exe.config
+C:\Users\JeTf\Desktop\SEM_1_2020\PROG_GRAFICA\1\JuegoGrafica\Proy_Grafica\bin\Debug\Proy_Grafica.exe
+C:\Users\JeTf\Desktop\SEM_1_2020\PROG_GRAFICA\1\JuegoGrafica\Proy_Grafica\bin\Debug\Proy_Grafica.pdb
+C:\Users\JeTf\Desktop\SEM_1_2020\PROG_GRAFICA\1\JuegoGrafica\Proy_Grafica\bin\Debug\OpenTK.dll
+C:\Users\JeTf\Desktop\SEM_1_2020\PROG_GRAFICA\1\JuegoGrafica\Proy_Grafica\bin\Debug\OpenTK.pdb
+C:\Users\JeTf\Desktop\SEM_1_2020\PROG_GRAFICA\1\JuegoGrafica\Proy_Grafica\bin\Debug\OpenTK.xml
+C:\Users\JeTf\Desktop\SEM_1_2020\PROG_GRAFICA\1\JuegoGrafica\Proy_Grafica\obj\Debug\Juego_Grafica.csprojResolveAssemblyReference.cache
+C:\Users\JeTf\Desktop\SEM_1_2020\PROG_GRAFICA\1\JuegoGrafica\Proy_Grafica\obj\Debug\Proy_Grafica.exe
+C:\Users\JeTf\Desktop\SEM_1_2020\PROG_GRAFICA\1\JuegoGrafica\Proy_Grafica\obj\Debug\Proy_Grafica.pdb
+C:\Users\JeTf\Desktop\SEM_1_2020\PROG_GRAFICA\1\JuegoGrafica\Proy_Grafica\bin\Debug\Model\tank2.obj
+C:\Users\JeTf\Desktop\SEM_1_2020\PROG_GRAFICA\1\JuegoGrafica\Proy_Grafica\bin\Debug\Model\mtankquit.obj
+C:\Users\JeTf\Desktop\SEM_1_2020\PROG_GRAFICA\1\JuegoGrafica\Proy_Grafica\bin\Debug\Model\tank34qui.obj
+C:\Users\JeTf\Desktop\SEM_1_2020\PROG_GRAFICA\1\JuegoGrafica\Proy_Grafica\bin\Debug\Model\tank34.obj
+C:\Users\JeTf\Desktop\SEM_1_2020\PROG_GRAFICA\1\JuegoGrafica\Proy_Grafica\bin\Debug\Model\3dtankmaterial.obj
+C:\Users\JeTf\Desktop\SEM_1_2020\PROG_GRAFICA\1\JuegoGrafica\Proy_Grafica\bin\Debug\Model\cubo_simple.obj
